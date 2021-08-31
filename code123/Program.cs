@@ -6,7 +6,34 @@ namespace code123
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string s = Console.ReadLine();
+
+            char[] chars = s.ToCharArray();
+            for (int = 0; i < chars.Length; i++) 
+            { 
+
+                if (chars.IsUpper(s) == true)
+                {
+
+                }
+                else if (chars.IsLower(s) == true) 
+                {
+
+                }
+
+
+
+
+
+
+
+
+
+
+
+            }
+           
+
         }
     }
 }
